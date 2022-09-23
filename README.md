@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dwight-Monohon
-- 👀 I’m interested in way to many things
+- 👀 I’m interested in way too many things
 - 🌱 I’m currently learning html and anyother design skills I need to make a basic website
 - 💞️ I’m looking to collaborate on multimedia projects and animations using digital and generative tools
 - 📫 You reach me through gitHubs normal means
